@@ -1,6 +1,3 @@
-<div
-    align="center">
-</div>
 
 ---
 
@@ -48,7 +45,7 @@
 </div>
 <h4
     align="center"
-    style="front-weight: bold">
+    style="font-weight: bold">
     IDE
 </h4>
 <div
@@ -70,10 +67,12 @@
     align="center"
     style="font-weight: bold">
     3D-Modeling
+</h3>
 <div
     align="center">
     <img src="https://skillicons.dev/icons?i=unity,blender,unreal">
-  
+</div>
+
 ---
 
 
@@ -83,6 +82,3 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegameprofi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </div>
 
-<div>
-  <img src="https://cdn.pixabay.com/photo/2020/07/26/13/53/cherry-blossom-5439588_1280.png">
-</div>
