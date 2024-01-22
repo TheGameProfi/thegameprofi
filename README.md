@@ -1,16 +1,88 @@
-### Hi there 👋
+<div
+    align="center">
+</div>
 
-<!--
-**TheGameProfi/thegameprofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div
+    align="center">
+    <a href="https://discord.com/users/489812661249507360" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/489812661249507360??borderRadius=5px&animated=:true&bg=273849&showDisplayName=true">
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 
+    align="center"
+    style="font-weight: bold">
+    Languages
+</h3>
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,html,css">
+    </br>
+    <img src="https://skillicons.dev/icons?i=go,java,kotlin,bash,php">
+</div>
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Frameworks
+</h3>
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=react,next,kubernetes">
+</div>
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Tools
+</h3>
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,discord,arduino">
+    </br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,vercel,cloudflare,codepen,terraform">
+</div>
+<h4
+    align="center"
+    style="front-weight: bold">
+    IDE
+</h4>
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode,visualstudio">
+</div>
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Design
+</h3>
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=photoshop,tailwind">
+</div>
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    3D-Modeling
+<div
+    align="center">
+    <img src="https://skillicons.dev/icons?i=unity,blender,unreal">
+  
+---
+
+
+<div
+    align="center">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=thegameprofi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegameprofi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+</div>
+
+<div>
+  <img src="https://cdn.pixabay.com/photo/2020/07/26/13/53/cherry-blossom-5439588_1280.png">
+</div>
