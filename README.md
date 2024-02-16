@@ -77,7 +77,7 @@
 
 <div
     align="center">
-    <img height="180" src="https://readme.thecfu.de/api?username=thegameprofi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-    <img height="180" src="https://readme.thecfu.de/api/top-langs/?username=thegameprofi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+    <img height="180" src="http://github-readme-stats-nine-pi-29.vercel.app/api?username=thegameprofi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+    <img height="180" src="http://github-readme-stats-nine-pi-29.vercel.app/api/top-langs/?username=thegameprofi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </div>
 
