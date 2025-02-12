@@ -67,7 +67,7 @@ Hi! I’m an **IT enthusiast and developer** with a passion for **software devel
 
 <div align="center">
   <img height="180" src="http://github-readme-stats-git-main-thegameprofis-projects.vercel.app/api?username=thegameprofi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img height="180" src="http://github-readme-stats-git-main-thegameprofis-projects.vercel.app/api/top-langs/?username=thegameprofi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
+  <img height="180" src="http://github-readme-stats-git-main-thegameprofis-projects.vercel.app/api/top-langs/?username=thegameprofi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&exclude_repo=terraform-provider-proxmox,proxmox-api-go" alt="Top Languages">
 </div>
 
 ---
