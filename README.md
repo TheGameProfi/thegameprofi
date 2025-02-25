@@ -65,8 +65,10 @@ Hi! I’m an **IT enthusiast and developer** with a passion for **software devel
 
 ---
 
-<picture>
+<div align="center">
+  <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
+</div>
 
 ---
