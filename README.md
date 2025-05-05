@@ -43,14 +43,14 @@ Hi! I’m an **IT enthusiast and developer** with a passion for **software devel
 
 <h3 align="center" style="font-weight: bold;">🛠 Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?perline=6&i=git,github,githubactions,docker,discord,arduino,mongodb,mysql,postgres,vercel,cloudflare,codepen">
-  <br>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,bitbucket,openstack,terraform">
+  <img src="https://skillicons.dev/icons?perline=5&i=git,github,githubactions,docker,discord,arduino,mongodb,mysql,postgres,vercel,cloudflare,codepen,grafana,prometheus,bitbucket,openstack,terraform,notion,obsidian,stackoverflow">
 </div>
 
 <h4 align="center" style="font-weight: bold;">📦 IDEs</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode,visualstudio">
+  <img src="https://skillicons.dev/icons?perline=4&i=androidstudio,eclipse,idea,vscode">
+  <br>
+  <img src="https://skillicons.dev/icons?perline=4&i=visualstudio,pycharm,webstorm">
 </div>
 
 <h3 align="center" style="font-weight: bold;">🎨 Design</h3>
