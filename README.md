@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/489812661249507360" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/489812661249507360?borderRadius=5px&animated=true&bg=273849&showDisplayName=true" alt="Discord Status">
+    <img src="https://lanyard.cnrad.dev/api/489812661249507360?borderRadius=5px&animated=true&bg=273849&showDisplayName=true&animatedDecoration=true&hideSpotify=true&idleMessage=AFK%20for%20a%20bit,%20but%20always%20happy%20to%20connect!" alt="Discord Status">
   </a>
 </div>
 
