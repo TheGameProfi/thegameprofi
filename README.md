@@ -29,38 +29,38 @@ Hi! I’m an **IT enthusiast and developer** with a passion for **software devel
 
 <h3 align="center" style="font-weight: bold;">💻 Languages</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?perline=6&i=py,js,nodejs,html,go,java">
-  <br>
-  <img src="https://skillicons.dev/icons?i=kotlin,bash,css,php,vite">
+  <img src="https://go-skill-icons.vercel.app/api/icons?title=true&perline=5&i=py,js,nodejs,html,go,java,kotlin,bash,css,php">
 </div>
 
 <h3 align="center" style="font-weight: bold;">⚙️ Frameworks</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,kubernetes,fastapi">
+  <img src="https://go-skill-icons.vercel.app/api/icons?title=true&i=react,next,kubernetes,fastapi">
   <br>
-  <img src="https://skillicons.dev/icons?i=discordjs,materialui,prisma">
+  <img src="https://go-skill-icons.vercel.app/api/icons?title=true&i=discordjs,materialui,prisma">
 </div>
 
 <h3 align="center" style="font-weight: bold;">🛠 Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?perline=5&i=git,github,githubactions,docker,discord,arduino,mongodb,mysql,postgres,vercel,cloudflare,codepen,grafana,prometheus,bitbucket,openstack,terraform,notion,obsidian,stackoverflow">
+  <img src="https://go-skill-icons.vercel.app/api/icons?title=true&perline=7&i=git,gitea,github,githubactions,docker,discord,arduino,mongodb,mysql,postgres,vercel,cloudflare,codepen,grafana,prometheus,bitbucket,openstack,terraform,notion,obsidian,stackoverflow">
+  <br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?title=true&perline=7&i=chatgpt,jira,mermaid,vite">
 </div>
 
 <h4 align="center" style="font-weight: bold;">📦 IDEs</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?perline=4&i=androidstudio,eclipse,idea,vscode">
+  <img src="https://go-skill-icons.vercel.app/api/icons?title=true&perline=4&i=androidstudio,eclipse,idea,vscode">
   <br>
-  <img src="https://skillicons.dev/icons?perline=4&i=visualstudio,pycharm,webstorm">
+  <img src="https://go-skill-icons.vercel.app/api/icons?title=true&perline=4&i=visualstudio,pycharm,webstorm,goland">
 </div>
 
 <h3 align="center" style="font-weight: bold;">🎨 Design</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,tailwind">
+  <img src="https://go-skill-icons.vercel.app/api/icons?title=true&i=photoshop,tailwind,figma,filmora">
 </div>
 
 <h3 align="center" style="font-weight: bold;">🛠 3D Modeling</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender,unreal">
+  <img src="https://go-skill-icons.vercel.app/api/icons?title=true&i=unity,blender,unrealengine">
 </div>
 
 ---
