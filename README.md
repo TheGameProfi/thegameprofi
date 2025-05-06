@@ -72,3 +72,6 @@ Hi! I’m an **IT enthusiast and developer** with a passion for **software devel
 </div>
 
 ---
+<div align="center">
+	<img src="https://count.getloli.com/@thegameprofi?theme=booru-lewd&align=center&pixelated=0&darkmode=auto" alt="ViewCount" />
+</div>
