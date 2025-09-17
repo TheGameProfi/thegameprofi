@@ -32,6 +32,9 @@ Hi! I’m an **IT enthusiast and developer** with a passion for **software devel
   <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&perline=5&i=py,js,nodejs,html,go,java,kotlin,bash,css,php">
 </div>
 
+<details>
+
+<summary>More Knowledge Points</summary>
 <h3 align="center" style="font-weight: bold;">⚙️ Frameworks</h3>
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&i=react,next,kubernetes,fastapi">
@@ -62,16 +65,23 @@ Hi! I’m an **IT enthusiast and developer** with a passion for **software devel
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&i=unity,blender,unrealengine">
 </div>
+</details>
 
 ---
+
+<details>
+
+<summary>Github Stats</summary>
 
 <div align="center">
   <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 </div>
+</details>
 
 ---
+
 <div align="center">
 	<img src="https://count.getloli.com/@thegameprofi?theme=booru-lewd&align=center&pixelated=0&darkmode=auto" alt="ViewCount" />
 </div>
