@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: gh-metrics/metrics@ed2a678f6e559135c1c3739454857b4a622f32e4 # lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@80905010b60c247b3428f52df11569e4a9cf227b # lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
